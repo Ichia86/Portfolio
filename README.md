@@ -13,12 +13,12 @@ I am eager to pursue opportunities as a Business Data Analyst, with a strong int
 
 | Skill                                                        | Associated Project                            |
 |--------------------------------------------------------------|-----------------------------------------------|
-| Data Visualization and Business Analysis using Tableau       | <a href="https://public.tableau.com/app/profile/i.chia.yeh/vizzes">Tableau Portfolio</a>|
-| Data Visualization and Business Analysis using R             | <a href="https://github.com/Ichia86/Portfolio/blob/main/Analyzing%20Contributors%20to%20Default%20Risk%20on%20Mortages%20for%20Fannie%20Mae%20Mortgage.htm">Default Risk on Mortages</a>|
-| Developed models using Statistical Analysis packages from R  | <a href="https://github.com/Ichia86/Portfolio/blob/main/US%20Airbnb%20Rating%20Prediction%20Competition%20.R"> US Airbnb Rating Prediction Competition</a>|
-| Multinomial Logistic Regression Model from Python            | <a href="https://google.com">Capstone Data Analytics Consultant (Partnered with Freddie Mac)</a>|
-| Machine Learning with TensorFlow                             | <a href="https://github.com/Ichia86/Portfolio/blob/main/House%20Price%20Prediction.ipynb">House Price Prediction</a>|
-| Regression Models from Python                                | <a href="https://github.com/Ichia86/Portfolio/blob/main/Uber%20Fare%20prediction.ipynb">Uber Fare prediction</a>|
+| **[Tableau]** Data Visualization and Business Analysis using | <a href="https://public.tableau.com/app/profile/i.chia.yeh/vizzes">Tableau Portfolio</a>|
+| **[R]** Data Visualization and Business Analysis             | <a href="https://github.com/Ichia86/Portfolio/blob/main/Analyzing%20Contributors%20to%20Default%20Risk%20on%20Mortages%20for%20Fannie%20Mae%20Mortgage.htm">Default Risk on Mortages</a>|
+| **[R]** Developed models using Statistical Analysis packages | <a href="https://github.com/Ichia86/Portfolio/blob/main/US%20Airbnb%20Rating%20Prediction%20Competition%20.R"> US Airbnb Rating Prediction Competition</a>|
+| **[Python]** Multinomial Logistic Regression Model           | <a href="https://google.com">Capstone Data Analytics Consultant (Partnered with Freddie Mac)</a>|
+| **[Python]** Machine Learning with TensorFlow                | <a href="https://github.com/Ichia86/Portfolio/blob/main/House%20Price%20Prediction.ipynb">House Price Prediction</a>|
+| **[Python]** Regression Models (OLS, Linear, LASSO)          | <a href="https://github.com/Ichia86/Portfolio/blob/main/Uber%20Fare%20prediction.ipynb">Uber Fare prediction</a>|
 
 ## Tools
 - Programming: Python, R
